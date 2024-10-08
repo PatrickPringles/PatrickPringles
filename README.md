@@ -4,3 +4,9 @@
 - 💞️ I’m looking to collaborate on none so far unless I take an interest in a specific software program.
 - 📫 How to reach me: 09164023217
 - 😄 Pronouns: He/Him
+
+
+
+
+
+Note: My source codes are private in the meantime. I will change it when I successfully manage to learn how to make an actual app that contains a UI and created from a package.
