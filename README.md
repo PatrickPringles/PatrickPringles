@@ -2,7 +2,7 @@
 - 👀 I’m interested in software applications, hardware devices such as computers and smartphones, and also trying to learn more in C++ even though it is hard.
 - 🌱 I’m currently learning data structures and algorithms in C++. I am also learning Java, Python, SQL, and a bit of Assembly all at the same time.
 - 💞️ I’m looking to collaborate on none so far unless I take an interest in a specific software program.
-- 📫 How to reach me: 09164023217
+- 📫 How to reach me: +63 916 402 3217
 - 😄 Pronouns: He/Him
 
 
